@@ -1,0 +1,13 @@
+
+.account-sale-line:hover {
+	-fx-background-color: lightblue;
+}
+
+.account-sale-subtotal {
+	   -fx-font-weight: bold;
+}
+
+.account-sale-total {
+	   -fx-font-size: 25px;
+	   -fx-font-weight: bold;
+}
